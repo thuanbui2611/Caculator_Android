@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ClearButtonStyle" parent="Widget.AppCompat.Button">
+
+        <item name="android:textColor">@android:color/holo_red_dark</item>
+        <!-- Add any additional styling properties you want for the clear button -->
+    </style>
+
+
+</resources>
